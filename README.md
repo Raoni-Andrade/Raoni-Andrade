@@ -4,6 +4,7 @@
 const name = 'Raoni Andrade';
 const age = 27;
 const specialization = 'Full Stack Web Developer';
+const nationality = 'Brazilian' 
 
 const status = 
 { 
