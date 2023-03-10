@@ -1,4 +1,4 @@
-### Hey there! 👋
+### Hello, World! 👋
 
 ```js
 const name = 'Raoni Andrade';
@@ -9,7 +9,7 @@ const nationality = 'Brazilian'
 const status = 
 { 
   learning : ['Docker, 'MYSQL', 'MongoDB', 'Node.js', 'TypeScript', 'POO', 'API', 'NoSQL'],
-  interests: ['Cyber Security', 'UI/UX', 'Data Science', 'Front-end', 'Traveling']
+  interests: ['Cyber Security', 'UI/UX', 'Data Science', 'Front-end', 'Back-end', 'Traveling']
 }
 
 const skills = 
