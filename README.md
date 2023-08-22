@@ -124,6 +124,8 @@ const skills =
 </div>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raoni-Andrade&show_icons=true&theme=transparent)
+
 
 <!--
 **Raoni-Andrade/Raoni-Andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
