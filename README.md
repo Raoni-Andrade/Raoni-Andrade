@@ -2,34 +2,34 @@
 
 ```js
 const name = 'Raoni Andrade';
-const age = 27;
+let age = 27;
 const specialization = 'Full Stack Web Developer';
 const nationality = 'Brazilian' 
 
 const status = 
 { 
-  learning : ['Docker, 'MYSQL', 'MongoDB', 'Node.js', 'TypeScript', 'POO', 'API', 'NoSQL'],
-  interests: ['Cyber Security', 'UI/UX', 'Data Science', 'Front-end', 'Back-end', 'Traveling']
+  learning : ['Java', 'C#', 'Docker', '.NET', 'AWS', 'MYSQL', 'MongoDB', 'POO', 'API', 'NoSQL'],
+  interests: ['Cyber Security', 'UI/UX', 'Data Science', 'Front-end', 'Back-end', 'Exploring']
 }
 
 const skills = 
 {
   languages :['HTML', 'CSS', 'Javascript', 'React Native', 'React JS'],
 
-  design: ['css', 'figma', 'styled components'],
+  design: ['CSS', 'SASS', 'Figma', 'Styled Components'],
   
-  frameworks:['Bootstrap', 'Bulma', 'React', 'Next Js' , 'Tailwind'],
+  frameworks:['React', 'Next JS' , 'Express JS ', '.NET', 'Tailwind', 'Bootstrap', 'Bulma'],
   
-  platforms :['Docker Container', 'Linux'],
+  platforms :['AWS', 'Docker Container', 'Linux'],
   
   cicd      :['Github Workflows']
 }
 
 ```
 
-- 💻 I work as a Web Dev, **always keen to learn and be part of the solution**
+- 💻 I work as a Web Developer, **always keen to learn and be part of the solution**
 
-- 📖 I’m currently learning more about **back-end**
+- 📖 I’m currently diving deep and learning more about **back-end**
 
 - 📫 You can easily reach me through **raonio.andrade@gmail.com**
 
