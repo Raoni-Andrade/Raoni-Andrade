@@ -16,7 +16,7 @@ const skills =
 {
   languages :['Javascript','React JS', 'React Native', 'PHP', 'Python', 'Java'],
 
-  design: ['CSS', 'SASS', 'Figma', 'Styled Components'],
+  design    :['CSS', 'SASS', 'Figma', 'Styled Components'],
   
   frameworks:['React', 'Next JS' , 'Express JS ', '.NET', 'Tailwind', 'Bootstrap', 'Bulma'],
   
