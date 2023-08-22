@@ -8,13 +8,13 @@ const nationality = 'Brazilian'
 
 const status = 
 { 
-  learning : ['Java', 'C#', 'Docker', '.NET', 'AWS', 'MYSQL', 'MongoDB', 'POO', 'API', 'NoSQL'],
+  learning : ['Java', 'C#', 'Docker', '.NET', 'AWS', 'Python', 'MYSQL', 'MongoDB', 'POO', 'API', 'NoSQL'],
   interests: ['Cyber Security', 'UI/UX', 'Data Science', 'Front-end', 'Back-end', 'Exploring']
 }
 
 const skills = 
 {
-  languages :['HTML', 'CSS', 'Javascript', 'React Native', 'React JS'],
+  languages :['Javascript','React JS', 'React Native', 'PHP', 'Python', 'Java'],
 
   design: ['CSS', 'SASS', 'Figma', 'Styled Components'],
   
