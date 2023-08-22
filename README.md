@@ -26,6 +26,7 @@ const skills =
 }
 
 ```
+- :speaking_head: I'm **native in Brazilian Portuguese :brazil:**, **fluent in English :gb::us::australia:**, **intermediate in Spanish :es:** and **basic in Dutch/Flemish :netherlands::belgium:**
 
 - 💻 I work as a Web Developer, **always keen to learn and be part of the solution**
 
