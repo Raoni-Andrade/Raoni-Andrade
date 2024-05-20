@@ -2,8 +2,8 @@
 
 ```js
 const name = 'Raoni Andrade';
-let age = 27;
-const specialization = 'Full Stack Web Developer';
+let age = 28;
+const specialization = 'Software Engineer';
 const nationality = 'Brazilian' 
 
 const status = 
@@ -30,7 +30,7 @@ const skills =
 
 - 💻 I work as a Web Developer, **always keen to learn and be part of the solution**
 
-- 📖 I’m currently diving deep and learning more about **back-end**
+- 📖 I’m currently diving deep and learning more about **Java**, **Next JS** and **back-end**
 
 - 📫 You can easily reach me through **raonio.andrade@gmail.com**
 
