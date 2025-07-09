@@ -2,27 +2,27 @@
 
 ```js
 const name = 'Raoni Andrade';
-let age = 28;
+let age = 29;
 const specialization = 'Software Engineer';
 const nationality = 'Brazilian' 
 
 const status = 
 { 
-  learning : ['Java', 'C#', 'Docker', '.NET', 'AWS', 'Python', 'MYSQL', 'MongoDB', 'POO', 'API', 'NoSQL'],
-  interests: ['Cyber Security', 'UI/UX', 'Data Science', 'Front-end', 'Back-end', 'Exploring']
+  learning : ['Docker', 'React', 'AWS', 'DynamoDB', 'PostgreSQL','API', 'NoSQL', 'Node', 'Lambda Functions'],
+  interests: ['Cyber Security', 'UI/UX', 'Front-end', 'Back-end', 'PHP', 'Ruby']
 }
 
 const skills = 
 {
-  languages :['Javascript','React JS', 'React Native', 'PHP', 'Python', 'Java'],
+  languages :['Javascript','TypeScript', 'SQL', 'Python', 'Java'],
 
   design    :['CSS', 'SASS', 'Figma', 'Styled Components'],
   
-  frameworks:['React', 'Next JS' , 'Express JS ', '.NET', 'Tailwind', 'Bootstrap', 'Bulma'],
+  frameworks:['React', 'Next JS' , 'Ruby on Rails', 'Spring Boot', 'Tailwind', 'Bootstrap'],
   
-  platforms :['AWS', 'Docker Container', 'Linux'],
+  platforms :['AWS', 'Docker Container', 'Linux', 'WSL', 'AWS Lambda'],
   
-  cicd      :['Github Workflows']
+  cicd      :['Github Workflows', 'Atlassian Bamboo']
 }
 
 ```
@@ -30,7 +30,7 @@ const skills =
 
 - 💻 I work as a Web Developer, **always keen to learn and be part of the solution**
 
-- 📖 I’m currently diving deep and learning more about **Java**, **Next JS** and **back-end**
+- 📖 I’m currently diving deep and learning more about **React**, **DynamoDB**, **Node JS**, **PostgreSQL**, **API's** and **AWS Lambda**
 
 - 📫 You can easily reach me through **raonio.andrade@gmail.com**
 
@@ -39,6 +39,7 @@ const skills =
 <a href="https://www.linkedin.com/in/raoni-andrade-dev/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="raoni-andrade-dev" /></a>
 <a href="https://fb.com/raoni.andrade.3" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="raoni.andrade.3"  /></a>
 <a href="https://www.instagram.com/reiioni/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="reiioni"  /></a>
+<a href="https://raonio.com.br" target="_blank"><img align="center" alt="Personal Website" src="https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=gg==&logoColor=white"></a>
 </p>  
 
 <h3 align="left">Technologies and tools:</h3>
@@ -118,9 +119,6 @@ const skills =
 
 <div>
    <h3 align="center"><i>"Embrace the unknown"</i></h3><br>
-   <p align="center">
-       <a href="https://raonio.com.br"><img alt="Personal Website" src="https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=gg==&logoColor=white"></a>
-   </p>
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -132,16 +130,5 @@ const skills =
 
 
 <!--
-**Raoni-Andrade/Raoni-Andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
