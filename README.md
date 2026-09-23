@@ -26,7 +26,7 @@ const skills =
 }
 
 ```
-- :speaking_head: I'm **native in Brazilian Portuguese :brazil:**, **fluent in English :gb::us::australia:**, **intermediate in Spanish :es:** and **basic in Dutch/Flemish :netherlands::belgium:**
+- :speaking_head: I'm **native in Brazilian Portuguese**, **fluent in English**, **intermediate in Spanish** and **basic in Dutch/Flemish**
 
 - 💻 I work as a Web Developer, **always keen to learn and be part of the solution**
 
@@ -120,15 +120,3 @@ const skills =
 <div>
    <h3 align="center"><i>"Embrace the unknown"</i></h3><br>
 </div>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Raoni-Andrade&show_icons=true&theme=transparent&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raoni-Andrade&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-
-<!--
-- ⚡ Fun fact: ...
--->
