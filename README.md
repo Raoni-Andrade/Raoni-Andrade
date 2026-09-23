@@ -2,7 +2,7 @@
 
 ```js
 const name = 'Raoni Andrade';
-let age = 29;
+let age = 30;
 const specialization = 'Software Engineer';
 const nationality = 'Brazilian' 
 
@@ -16,9 +16,9 @@ const skills =
 {
   languages :['Javascript','TypeScript', 'SQL', 'Python', 'Java'],
 
-  design    :['CSS', 'SASS', 'Figma', 'Styled Components'],
+  design    :['CSS', 'SASS', 'Tailwind', 'Figma', 'Styled Components'],
   
-  frameworks:['React', 'Next JS' , 'Ruby on Rails', 'Spring Boot', 'Tailwind', 'Bootstrap'],
+  frameworks:['Astro', 'React', 'Next JS' , 'Ruby on Rails', 'Spring Boot'],
   
   platforms :['AWS', 'Docker Container', 'Linux', 'WSL', 'AWS Lambda'],
   
